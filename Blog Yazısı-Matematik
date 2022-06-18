@@ -1,0 +1,12 @@
+Birden çok boyutlu girdili fonksiyonların kısmi türevleri olduğunu öğrendikten sonra, böyle bir fonksiyonun "tam" türevinin ne olduğunu merak ediyor olabilirsiniz. Skaler değerli çok değişkenli fonksiyonlarda yani çok boyutlu girdisi ancak tek boyutlu çıktısı olan fonksiyonlarda, cevap gradyandır.
+Bir fff fonksiyonunun \nabla f∇fdel, f ile gösterilen gradyanı, tüm kısmi türevlerin bir vektörde toplanmasıdır.
+Eğer f(x, y) = x^2 - xyf(x,y)=x 
+x=IK
+y= IT
+Bir şirkette  örneğin IK ve IT deki değişimlerin maksimum olduğu tüm türevlerin bir vektörde toplandığı bir analiz yapacak olursak.
+bu durumda gradyan f'nin neyi temsil ettiğine bakarsak:
+\left[ \begin{array}{c} 2x - y \\ -x \end{array} \right][ 
+2x−y
+−x
+​
+ biçiminde olacaktır.
